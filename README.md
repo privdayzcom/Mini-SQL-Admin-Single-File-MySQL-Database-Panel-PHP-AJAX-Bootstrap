@@ -1,6 +1,6 @@
 # ⚙️ Mini SQL Admin – For MySQL (PHP Single File Admin Panel)
 ![PHP](https://img.shields.io/badge/PHP-7.4+-8892BF?logo=php&logoColor=white)
-![License](https://img.shields.io/github/license/privdayzcom/Mini-SQL-Admin-Single-File-MySQL-Database-Panel-PHP-AJAX-Bootstrap-?color=green)
+![License](https://img.shields.io/github/license/privdayzcom/Mini-SQL-Admin-Single-File-MySQL-Database-Panel-PHP-AJAX-Bootstrap?color=green)
 ![MySQL](https://img.shields.io/badge/MySQL-Supported-blue?logo=mysql)
 ![Responsive](https://img.shields.io/badge/UI-Responsive-orange)
 ![File](https://img.shields.io/badge/Single--File-Yes-brightgreen)
